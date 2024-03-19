@@ -35,6 +35,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
+![Demo](https://github.com/fcamas/BMI/assets/76220782/c9e88800-bb70-4893-bd52-668f157ffd9f)
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
